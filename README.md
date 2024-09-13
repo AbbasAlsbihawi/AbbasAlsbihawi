@@ -13,12 +13,12 @@ Fun Facts : I Do Like Challenge..
         <img src="https://img.shields.io/badge/-Abbas_Faek-blue?style=social&logo=Linkedin&logoColor=white/">
     </a>
     <a href="https://www.instagram.com/abbas_alsbihawi/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Abbas_Faek-blue?style=social&logo=instagram&logoColor=white/">
-        </a>
-        
-        <a href="mailto:abbas202559@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Abbas_Faek-blue?style=social&logo=Gmail&logoColor=white/">
+        <img src="https://img.shields.io/badge/-Abbas_Faek-blue?style=social&logo=instagram&logoColor=white/"/>
     </a>
+    <a href="mailto:abbas202559@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-Abbas_Faek-blue?style=social&logo=Gmail&logoColor=white/">
+    </a> 
+        
 </h3>
 
 <h3> 👨‍💻 Knowledge </h3>
