@@ -135,11 +135,11 @@ Fun Facts : I Do Like Challenge..
     <tr>
         <td valign="center">
             <img
-                src='https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAlsbihawi&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=dark'>
+                src='https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAlsbihawi&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=dracula'>
         </td>
         <td valign="center">
             <img
-                src='https://github-readme-stats.vercel.app/api?username=AbbasAlsbihawi&show_icons=true&layout=compact&theme=dark'>
+                src='https://github-readme-stats.vercel.app/api?username=AbbasAlsbihawi&show_icons=true&layout=compact&theme=dracula'>
         </td>
     </tr>
 </table>
